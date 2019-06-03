@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "Ross's Resume",
+  "main": "_sass/styles.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Lannen",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.7.5"
+  }
+}
